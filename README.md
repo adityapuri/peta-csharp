@@ -1,4 +1,4 @@
-# Puzzle EXA
+# Puzzle PETA
 
 ## Participate, Learn, Solve and Be Part of [Exzeo](http://exzeo.com)
 
