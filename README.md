@@ -19,7 +19,7 @@ to showcase the solutions
 
 **Problem 2:**
 
-> Download "names.txt", There are over five-thousand first names. Read this file into your program and sort them by alphabetical order. You have to figure out value for each name. How to calculate the value is as follows:
+> Take reference of file "names.txt" which is committed in repository itself, There are over five-thousand first names. Read this file into your program and sort them by alphabetical order. You have to figure out value for each name. How to calculate the value is as follows:
 
 > 1. Get the sum of place value of each character(a=1,b=2,etc.).
 > 2. Multiply this value by its alphabetical position in the list to obtain a name score.
